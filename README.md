@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @FehhhRox
-- 👀 I’m interested in automation, machine learning, data science, Python.
-- 🌱 I’m currently learning how to use Python to support data science/automation projects.
+- 👀 I’m interested in automation, machine learning, data analysis & science.
 - 📫 Reach me on my email: michielcaers@hotmail.com
